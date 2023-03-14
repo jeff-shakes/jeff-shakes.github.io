@@ -15,7 +15,7 @@ const Hero = () => {
             Jeff Alexander.
           </h1>
           <h1 className="font-semibold text-gray-400/80 text-4xl lg:pt-14 sm:text-6xl pb-2 sm:pb-0">
-            I Tell Stories From / With Data!
+            TELLING STORIES THROUGH DATA
           </h1>
         </div>
         <div className="mr-5">
